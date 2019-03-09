@@ -1,0 +1,1 @@
+../build/package/index.js

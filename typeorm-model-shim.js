@@ -1,0 +1,1 @@
+../build/package/typeorm-model-shim.js
