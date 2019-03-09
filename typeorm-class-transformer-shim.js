@@ -1,1 +1,0 @@
-../build/package/typeorm-class-transformer-shim.js
